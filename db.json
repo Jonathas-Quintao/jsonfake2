@@ -36,9 +36,3 @@
     }
   ]
 }
-A correção consiste em adicionar vírgulas após cada objeto dentro das listas "Clientes" e "Funcionarios". Isso tornará o JSON válido. Peço desculpas pelo erro anterior e agradeço por apontar a questão.
-
-
-
-
-
