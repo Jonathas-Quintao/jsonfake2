@@ -1,21 +1,41 @@
 {
   "Funcionarios": [
-    {
-      "id": 1,
-      "nome": "José Geraldo Silva"
-    },
-    {
-      "id": 2,
-      "nome": "Benedito Assunção"
-    },
-    {
-      "id": 3,
-      "nome": "Roberto Lopes"
-    },
-    {
-      "id": 4,
-      "nome": "Zeca Araujo"
-    }
+{    
+    "id": 1;
+    "nome": "João da Silva",
+    "cpf": "123.456.789-01",
+    "email": "joao@email.com",
+    "telefone": "+55 11 9876-5432",
+    "endereco": "Rua Principal, 123",
+    "senha": "senha123"
+  },
+  {
+    "id": 2;
+    "nome": "Maria Santos",
+    "cpf": "987.654.321-09",
+    "email": "maria@email.com",
+    "telefone": "+55 11 5555-5555",
+    "endereco": "Avenida Central, 456",
+    "senha": "admin123"
+  },
+  {
+    "id": 3;
+    "nome": "Pedro Oliveira",
+    "cpf": "111.222.333-44",
+    "email": "pedro@email.com",
+    "telefone": "+55 11 1111-2222",
+    "endereco": "Rua Secundária, 789",
+    "senha": "senha456"
+  },
+  {
+    "id": 4;
+    "nome": "Carla Silva",
+    "cpf": "333.444.555-66",
+    "email": "carla@email.com",
+    "telefone": "+55 11 3333-4444",
+    "endereco": "Avenida da Paz, 321",
+    "senha": "senha789"
+  }
   ],
   "Clientes": [
     {
