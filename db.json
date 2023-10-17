@@ -1,7 +1,7 @@
 {
   "Funcionarios": [
 {    
-    "id": 1;
+    "id": 1,
     "nome": "João da Silva",
     "cpf": "123.456.789-01",
     "email": "joao@email.com",
@@ -10,7 +10,7 @@
     "senha": "senha123"
   },
   {
-    "id": 2;
+    "id": 2,
     "nome": "Maria Santos",
     "cpf": "987.654.321-09",
     "email": "maria@email.com",
@@ -19,7 +19,7 @@
     "senha": "admin123"
   },
   {
-    "id": 3;
+    "id": 3,
     "nome": "Pedro Oliveira",
     "cpf": "111.222.333-44",
     "email": "pedro@email.com",
@@ -28,7 +28,7 @@
     "senha": "senha456"
   },
   {
-    "id": 4;
+    "id": 4,
     "nome": "Carla Silva",
     "cpf": "333.444.555-66",
     "email": "carla@email.com",
