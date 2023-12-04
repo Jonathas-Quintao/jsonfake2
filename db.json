@@ -1,58 +1,94 @@
 {
-  "Funcionarios": [
+  "Compras": [
 {    
     "id": 1,
-    "nome": "João da Silva",
-    "cpf": "123.456.789-01",
-    "email": "joao@email.com",
-    "telefone": "+55 11 9876-5432",
-    "endereco": "Rua Principal, 123",
-    "senha": "senha123"
+    "cliente": "Pedro Costa",
+    "funcionario": "João da Silva",
+    "produtos": ["Ração Cachorro Pedigree Raças Pequenas 10,1Kg"]
+    "telefone": "+55 11 4444-6666",
+    "estado": "Minas Gerais",
+    "cidade": "Juiz de For",
+    "bairro": "Monte Castelo",
+    "rua": "Rua Jose Silva",
+    "numero_residencia": "430",
+    "complemento": "Perto da Padaria"
+    "precoTotal": 30,
+    "notaFiscal": "000-000-000"
   },
   {
     "id": 2,
-    "nome": "Maria Santos",
-    "cpf": "987.654.321-09",
-    "email": "maria@email.com",
-    "telefone": "+55 11 5555-5555",
-    "endereco": "Avenida Central, 456",
-    "senha": "admin123"
+    "cliente": "Victor Hugo",
+    "funcionario": "Maria Santos",
+    "produtos": ["Potenay B12 120ml"]
+    "telefone": "+55 11 7777-8888",
+    "estado": "Minas Gerais",
+    "cidade": "Juiz de Fora",
+    "bairro": "Cascatinha",
+    "rua": "Rua do Torugo",
+    "numero_residencia": "856",
+    "complemento": "Ap 1074"
+    "precoTotal": 53,
+    "notaFiscal": "000-000-000"
   },
   {
     "id": 3,
-    "nome": "Pedro Oliveira",
-    "cpf": "111.222.333-44",
-    "email": "pedro@email.com",
-    "telefone": "+55 11 1111-2222",
-    "endereco": "Rua Secundária, 789",
-    "senha": "senha456"
+    "cliente": "Gustavo Pereira",
+    "funcionario": "Pedro Oliveira",
+    "produtos": ["Jimo Cupim 900ml","Ração Cachorro Pedigree Raças Pequenas 10,1Kg"]
+    "telefone": "+55 11 1111-3333",
+    "estado": "Minas Gerais",
+    "cidade": "Juiz de Fora",
+    "bairro": "Fabrica",
+    "rua": "Rua Bernardo Mascarenhas",
+    "numero_residencia": "56",
+    "complemento": "perto do IF"
+    "precoTotal": 49,
+    "notaFiscal": "000-000-000"
   },
   {
     "id": 4,
-    "nome": "Carla Silva",
-    "cpf": "333.444.555-66",
-    "email": "carla@email.com",
-    "telefone": "+55 11 3333-4444",
-    "endereco": "Avenida da Paz, 321",
-    "senha": "senha789"
+    "cliente": "Mariana Oliveira",
+    "funcionario": "Carla Silva",
+    "produtos": ["Vit Ade 100mL"]
+    "telefone": "+55 11 3333-5555",
+    "estado": "Minas Gerais",
+    "cidade": "Juiz de Fora",
+    "bairro": "Aeroporto",
+    "rua": "Rua Fulano de Tal",
+    "numero_residencia": "30",
+    "complemento": "bloco 2, ap 902"
+    "precoTotal": 15,
+    "notaFiscal": "000-000-000"
   }
   ],
-  "Clientes": [
+  "Dividas": [
     {
       "id": "1",
-      "nome": "Celia Maria"
+      "nome": "Victor Hugo",
+      "dataVencimento": "23-12-2023",
+      "valor": 15,
+      "notaFiscal": "000-000-000"
     },
     {
-      "id": "2",
-      "nome": "Ana Clara Machado"
+     "id": "2",
+      "nome": "Pedro Costa",
+      "dataVencimento": "30-12-2023",
+      "valor": 25,
+      "notaFiscal": "000-000-000"
     },
     {
       "id": "3",
-      "nome": "Maria Clara Pereira"
+      "nome": "Mariana Oliveira",
+      "dataVencimento": "20-12-2023",
+      "valor": 30,
+      "notaFiscal": "000-000-000"
     },
     {
       "id": "4",
-      "nome": "Marcos Oliveira"
+      "nome": "Mariana Oliveira",
+      "dataVencimento": "12-12-2023",
+      "valor": 112,
+      "notaFiscal": "000-000-000"
     }
   ]
 }
