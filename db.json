@@ -1,94 +1,94 @@
 {
   "Compras": [
-{    
-    "id": 1,
-    "cliente": "Pedro Costa",
-    "funcionario": "João da Silva",
-    "produtos": ["Ração Cachorro Pedigree Raças Pequenas 10,1Kg"]
-    "telefone": "+55 11 4444-6666",
-    "estado": "Minas Gerais",
-    "cidade": "Juiz de For",
-    "bairro": "Monte Castelo",
-    "rua": "Rua Jose Silva",
-    "numero_residencia": "430",
-    "complemento": "Perto da Padaria"
-    "precoTotal": 30,
-    "notaFiscal": "000-000-000",
-  },
-  {
-    "id": 2,
-    "cliente": "Victor Hugo",
-    "funcionario": "Maria Santos",
-    "produtos": ["Potenay B12 120ml"]
-    "telefone": "+55 11 7777-8888",
-    "estado": "Minas Gerais",
-    "cidade": "Juiz de Fora",
-    "bairro": "Cascatinha",
-    "rua": "Rua do Torugo",
-    "numero_residencia": "856",
-    "complemento": "Ap 1074"
-    "precoTotal": 53,
-    "notaFiscal": "000-000-000",
-  },
-  {
-    "id": 3,
-    "cliente": "Gustavo Pereira",
-    "funcionario": "Pedro Oliveira",
-    "produtos": ["Jimo Cupim 900ml","Ração Cachorro Pedigree Raças Pequenas 10,1Kg"]
-    "telefone": "+55 11 1111-3333",
-    "estado": "Minas Gerais",
-    "cidade": "Juiz de Fora",
-    "bairro": "Fabrica",
-    "rua": "Rua Bernardo Mascarenhas",
-    "numero_residencia": "56",
-    "complemento": "perto do IF"
-    "precoTotal": 49,
-    "notaFiscal": "000-000-000",
-  },
-  {
-    "id": 4,
-    "cliente": "Mariana Oliveira",
-    "funcionario": "Carla Silva",
-    "produtos": ["Vit Ade 100mL"]
-    "telefone": "+55 11 3333-5555",
-    "estado": "Minas Gerais",
-    "cidade": "Juiz de Fora",
-    "bairro": "Aeroporto",
-    "rua": "Rua Fulano de Tal",
-    "numero_residencia": "30",
-    "complemento": "bloco 2, ap 902"
-    "precoTotal": 15,
-    "notaFiscal": "000-000-000",
-  }
+    {
+      "id": 1,
+      "cliente": "Pedro Costa",
+      "funcionario": "João da Silva",
+      "produtos": ["Ração Cachorro Pedigree Raças Pequenas 10,1Kg"],
+      "telefone": "+55 11 4444-6666",
+      "estado": "Minas Gerais",
+      "cidade": "Juiz de For",
+      "bairro": "Monte Castelo",
+      "rua": "Rua Jose Silva",
+      "numero_residencia": "430",
+      "complemento": "Perto da Padaria",
+      "precoTotal": 30,
+      "notaFiscal": "000-000-000"
+    },
+    {
+      "id": 2,
+      "cliente": "Victor Hugo",
+      "funcionario": "Maria Santos",
+      "produtos": ["Potenay B12 120ml"],
+      "telefone": "+55 11 7777-8888",
+      "estado": "Minas Gerais",
+      "cidade": "Juiz de Fora",
+      "bairro": "Cascatinha",
+      "rua": "Rua do Torugo",
+      "numero_residencia": "856",
+      "complemento": "Ap 1074",
+      "precoTotal": 53,
+      "notaFiscal": "000-000-000"
+    },
+    {
+      "id": 3,
+      "cliente": "Gustavo Pereira",
+      "funcionario": "Pedro Oliveira",
+      "produtos": ["Jimo Cupim 900ml", "Ração Cachorro Pedigree Raças Pequenas 10,1Kg"],
+      "telefone": "+55 11 1111-3333",
+      "estado": "Minas Gerais",
+      "cidade": "Juiz de Fora",
+      "bairro": "Fabrica",
+      "rua": "Rua Bernardo Mascarenhas",
+      "numero_residencia": "56",
+      "complemento": "perto do IF",
+      "precoTotal": 49,
+      "notaFiscal": "000-000-000"
+    },
+    {
+      "id": 4,
+      "cliente": "Mariana Oliveira",
+      "funcionario": "Carla Silva",
+      "produtos": ["Vit Ade 100mL"],
+      "telefone": "+55 11 3333-5555",
+      "estado": "Minas Gerais",
+      "cidade": "Juiz de Fora",
+      "bairro": "Aeroporto",
+      "rua": "Rua Fulano de Tal",
+      "numero_residencia": "30",
+      "complemento": "bloco 2, ap 902",
+      "precoTotal": 15,
+      "notaFiscal": "000-000-000"
+    }
   ],
   "Dividas": [
     {
-      "id": "1",
+      "id": 1,
       "nome": "Victor Hugo",
       "dataVencimento": "23-12-2023",
       "valor": 15,
       "notaFiscal": "000-000-000"
     },
     {
-     "id": "2",
+      "id": 2,
       "nome": "Pedro Costa",
       "dataVencimento": "30-12-2023",
       "valor": 25,
-      "notaFiscal": "000-000-000",
+      "notaFiscal": "000-000-000"
     },
     {
-      "id": "3",
+      "id": 3,
       "nome": "Mariana Oliveira",
       "dataVencimento": "20-12-2023",
       "valor": 30,
-      "notaFiscal": "000-000-000",
+      "notaFiscal": "000-000-000"
     },
     {
-      "id": "4",
+      "id": 4,
       "nome": "Mariana Oliveira",
       "dataVencimento": "12-12-2023",
       "valor": 112,
-      "notaFiscal": "000-000-000",
+      "notaFiscal": "000-000-000"
     }
   ]
 }
