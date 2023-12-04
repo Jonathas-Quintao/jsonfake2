@@ -1,5 +1,5 @@
 {
-  "Compras": [
+  "compras": [
     {
       "id": 1,
       "cliente": "Pedro Costa",
@@ -61,7 +61,7 @@
       "notaFiscal": "000-000-000"
     }
   ],
-  "Dividas": [
+  "dividas": [
     {
       "id": 1,
       "nome": "Victor Hugo",
