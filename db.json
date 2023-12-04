@@ -13,7 +13,7 @@
     "numero_residencia": "430",
     "complemento": "Perto da Padaria"
     "precoTotal": 30,
-    "notaFiscal": "000-000-000"
+    "notaFiscal": "000-000-000",
   },
   {
     "id": 2,
@@ -28,7 +28,7 @@
     "numero_residencia": "856",
     "complemento": "Ap 1074"
     "precoTotal": 53,
-    "notaFiscal": "000-000-000"
+    "notaFiscal": "000-000-000",
   },
   {
     "id": 3,
@@ -43,7 +43,7 @@
     "numero_residencia": "56",
     "complemento": "perto do IF"
     "precoTotal": 49,
-    "notaFiscal": "000-000-000"
+    "notaFiscal": "000-000-000",
   },
   {
     "id": 4,
@@ -58,7 +58,7 @@
     "numero_residencia": "30",
     "complemento": "bloco 2, ap 902"
     "precoTotal": 15,
-    "notaFiscal": "000-000-000"
+    "notaFiscal": "000-000-000",
   }
   ],
   "Dividas": [
@@ -74,21 +74,21 @@
       "nome": "Pedro Costa",
       "dataVencimento": "30-12-2023",
       "valor": 25,
-      "notaFiscal": "000-000-000"
+      "notaFiscal": "000-000-000",
     },
     {
       "id": "3",
       "nome": "Mariana Oliveira",
       "dataVencimento": "20-12-2023",
       "valor": 30,
-      "notaFiscal": "000-000-000"
+      "notaFiscal": "000-000-000",
     },
     {
       "id": "4",
       "nome": "Mariana Oliveira",
       "dataVencimento": "12-12-2023",
       "valor": 112,
-      "notaFiscal": "000-000-000"
+      "notaFiscal": "000-000-000",
     }
   ]
 }
