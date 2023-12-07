@@ -90,5 +90,40 @@
       "valor": 112,
       "notaFiscal": "000-000-000"
     }
+  ],
+   "comprasEstoque": [
+    {
+      "id": 1,
+      "Fornecedor": "Fornecedor A",
+      "data": "23-12-2023",
+      "valor": 138,
+      "notaFiscal": "000-000-000",
+      "produtos": ["Jimo Cupim 900ml", "Ração Cachorro Pedigree Raças Pequenas 10,1Kg"]
+    },
+      {
+      "id": 2,
+      "Fornecedor": "Fornecedor B",
+      "data": "23-12-2023",
+      "valor": 28,
+      "notaFiscal": "000-000-000",
+      "produtos": ["Jimo Cupim 900ml""]
+    },
+      {
+      "id": 3,
+      "Fornecedor": "Fornecedor C",
+      "data": "23-12-2023",
+      "valor": 15,
+      "notaFiscal": "000-000-000",
+      "produtos": ["Vit Ade 100mL"]
+    },
+      {
+      "id": 4,
+      "Fornecedor": "Fornecedor D",
+      "data": "23-12-2023",
+      "valor": 12,
+      "notaFiscal": "000-000-000",
+      "produtos": ["Potenay B12 120ml"]
+    },
+   
   ]
 }
