@@ -94,7 +94,7 @@
    "comprasEstoque": [
     {
       "id": 1,
-      "Fornecedor": "Fornecedor A",
+      "fornecedor": "Fornecedor A",
       "data": "23-12-2023",
       "valor": 138,
       "notaFiscal": "000-000-000",
@@ -102,7 +102,7 @@
     },
       {
       "id": 2,
-      "Fornecedor": "Fornecedor B",
+      "fornecedor": "Fornecedor B",
       "data": "23-12-2023",
       "valor": 28,
       "notaFiscal": "000-000-000",
@@ -110,7 +110,7 @@
     },
       {
       "id": 3,
-      "Fornecedor": "Fornecedor C",
+      "fornecedor": "Fornecedor C",
       "data": "23-12-2023",
       "valor": 15,
       "notaFiscal": "000-000-000",
@@ -118,7 +118,7 @@
     },
       {
       "id": 4,
-      "Fornecedor": "Fornecedor D",
+      "fornecedor": "Fornecedor D",
       "data": "23-12-2023",
       "valor": 12,
       "notaFiscal": "000-000-000",
